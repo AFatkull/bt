@@ -1,0 +1,44 @@
+header img {
+    width:50px;
+}
+header {
+    background-color: SaddleBrown;
+    height:80px;
+}
+header a {
+    text-decoration:none;
+    border:1px solid Sienna;
+    background-color:Sienna;
+    margin:5px;
+    font-size:20px;
+    border-radius:15px;
+    padding:5px;
+    color:Chocolate;
+}
+body {
+    background-color:Sienna;
+}
+h1 {
+    text-align:center;
+    font-family:monospace;
+    color:Chocolate;
+    font-size:30px;
+}
+p {
+    font-family:monospace;
+    font-size:20px;
+    color:Chocolate;
+}
+main img {
+    width:500px;
+    height:500px;
+    border:5px solid SaddleBrown;
+}
+.b {
+    width:500px;
+    height:300px;
+    border:5px solid SaddleBrown;
+}
+footer {
+    background-color: SaddleBrown;
+}
